@@ -1,4 +1,5 @@
 #include "Sort.h"
+#include <iostream>
 
 template<class T> void Sort::mergeSort(vector<T> &vet)
 {
